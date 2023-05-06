@@ -9,8 +9,6 @@ for (let i = 0; i < n; i++) {
 console.log("Sum of first " + n + " natural numbers is " + sum)
 // console.log(i)
 
-
-
 /*
 let obj = {
   harry: 90,
